@@ -46,9 +46,6 @@
                 <div class="collapse navbar-collapse" id="navbar-ex-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active">
-                            <a href="#"><span style="color:#967900;">キャンペーン</span></a>
-                        </li>
-                        <li>
                             <a href="#3type"><span style="color:#967900;">3タイプの求人</span></a>
                         </li>
                          <li>
@@ -81,18 +78,18 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">深堀ブログ情報<span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
                         <li><a href="https://kikankou.co/kiji-ichiran/">最新記事</a></li>
-                        <li><a href="#sp-subaru-blog">スバル</a></li>
-                        <li><a href="#sp-honda-blog">ホンダ</a></li>
-                        <li><a href="#sp-isuzu-blog">いすゞ</a></li>
-                        <li><a href="#sp-daihatsu-blog">ダイハツ</a></li>
-                        <li><a href="#sp-mazda-blog">マツダ</a></li>
-                        <li><a href="#sp-aishin-blog">アイシン精機</a></li>
-                        <li><a href="#sp-komatsu-blog">コマツ</a></li>
-                        <li><a href="#sp-ntn-blog">NTN</a></li>
-                        <li><a href="#sp-toyota-blog">トヨタ</a></li>
-                        <li><a href="#sp-denso-blog">デンソー</a></li>
-                        <li><a href="#sp-nissan-blog">日産</a></li>
-                        <li><a href="#sp-mitsubishi-blog">三菱</a></li>
+                        <li><a href="https://kikankou.co/subaru/">スバル</a></li>
+                        <li><a href="https://kikankou.co/honda/">ホンダ</a></li>
+                        <li><a href="https://kikankou.co/isuzu/">いすゞ</a></li>
+                        <li><a href="https://kikankou.co/daihatsu/">ダイハツ</a></li>
+                        <li><a href="https://kikankou.co/mazda/">マツダ</a></li>
+                        <li><a href="https://kikankou.co/aishin/">アイシン精機</a></li>
+                        <li><a href="https://kikankou.co/komatsu/">コマツ</a></li>
+                        <li><a href="https://kikankou.co/ntn/">NTN</a></li>
+                        <li><a href="https://kikankou.co/toyota/">トヨタ</a></li>
+                        <li><a href="https://kikankou.co/denso/">デンソー</a></li>
+                        <li><a href="https://kikankou.co/nisssan/">日産</a></li>
+                        <li><a href="https://kikankou.co/mitsubishi/">三菱</a></li>
                     </ul>
                 </li>
                 <li>
@@ -216,28 +213,28 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1 class="text-center" id="3type"><span style="color:#967900;">選べる3タイプの求人</span></h1>
-                        <p class="text-center"><span style="color:#967900;">Select 3 types of recuritment&nbsp;</span></p>
+                        <h2 class="text-center" id="3type"><span style="color:#967900;">選べる3タイプの求人</span></h2>
+                        <a href="https://kikankou.co/official-recruitment-haken/">
+                        <h5 class="text-center"><span style="color:#967900;">3つの応募方法の違いとは？&nbsp;</span></h5></a>
                     </div>
                 </div>
                 <div class="row 9jin">
                     <div class="col-md-4">
                         <a href="https://kikankou.co/"><img src="https://kikankou.co/wp-content/uploads/2018/06/search01.jpg" class="center-block img-circle img-responsive" ></a>
-                        <h3 class="text-center"><span style="color:#967900;">メーカー公式
+                        <h3 class="text-center"><span style="color:#967900;">公式サイトからの応募
                             </span><br>
                         </h3>
-                        <p class="text-center">メーカーのオフィシャルサイトから直接雇用
-                            の求人へ直接応募できます。正社員への道もある！(期間従業員公式サーチ)</p>
+                        <p class="text-center">期間従業員を募集する公式サイトから企業へ直接応募できます。就業までの期間が短縮できて早く仕事に就ける。</p>
                     </div>
                     <div class="col-md-4">
                         <a href="https://kikankou.jp/"><img src="https://kikankou.co/wp-content/uploads/2018/06/kari.jpg" class="center-block img-circle img-responsive"></a>
-                        <h3 class="text-center"><span style="color:#967900;">人材紹介</span></h3>
-                        <p class="text-center">人材会社を通せば履歴書の添削や個別の相談にも対応してくれます。</p>
+                        <h3 class="text-center"><span style="color:#967900;">人材紹介からの応募</span></h3>
+                        <p class="text-center">人材会社が就業までしっかりとサポートしてくれます。また好条件の求人があれば紹介してくれることもある。</p>
                     </div>
                     <div class="col-md-4">
                         <img src="https://kikankou.co/wp-content/uploads/2018/06/haken02.jpg" class="center-block img-circle img-responsive">
-                        <h3 class="text-center"><span style="color:#967900;">派遣</span></h3>
-                        <p class="text-center">メーカー雇用ではなく派遣会社との契約。雇用条件は異なるが時給は比較的高い傾向にある。</p>
+                        <h3 class="text-center"><span style="color:#967900;">派遣会社からの応募</span></h3>
+                        <p class="text-center">直接雇用とは違い雇用形態や待遇が異なる。時給が比較的高いのが派遣雇用の特徴</p>
                     </div>
                 </div>
             </div>
@@ -255,16 +252,16 @@
                     <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
                         <!--追加項目-->
                         <a data-toggle="modal" data-target="#sampleModal-top1">
-                        <img src="https://kikankou.co/wp-content/uploads/2018/06/official-nagare.png" class="center-block img-responsive"></a>
+                        <img src="https://kikankou.co/wp-content/uploads/2018/06/official-howto.jpg" class="center-block img-responsive"></a>
                         <h2><span style="color:#967900;">公式からの応募</span></h2>
-                        <p>メーカーへの直接雇用が可能。応募から就業までが早い！メーカーによっては赴任手当も付くので安心して応募できる！</p> </div>
+                        <p>期間従業員を募集する公式サイトから企業へ直接応募できます。就業までの期間が短縮できて早く仕事に就ける。</p> </div>
 <!--モーダルウインドウ-->
-                        <div class="modal fade" id="sampleModal-top1" tabindex="-1">
-    <div class="modal-dialog">
+                        <div class="modal fade bs-example-modal-lg" aria-labelledby="myLargeModalLabel" id="sampleModal-top1" tabindex="-1">
+    <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-body">
                 <div class="col-6">
-                <img src="https://kikankou.co/wp-content/uploads/2018/06/official-nagare.png" class="center-block img-responsive" data-dismiss="modal">
+                <img src="https://kikankou.co/wp-content/uploads/2018/06/official-howto.jpg" class="center-block img-responsive" data-dismiss="modal">
                 </div>
             </div><!--modal-body-->
         </div><!--modal-content-->
@@ -273,9 +270,9 @@
                      <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
                         <!--追加項目-->
                         <a data-toggle="modal" data-target="#sampleModal-top2">
-                        <img src="https://kikankou.co/wp-content/uploads/2018/06/recruitment-nagare.png" class="center-block img-responsive"></a>
+                        <img src="https://kikankou.co/wp-content/uploads/2018/06/recruitment-howto.jpg" class="center-block img-responsive"></a>
                         <h2><span style="color:#967900;">人材紹介会社からの応募</span></h2>
-                        <p>1回目は人材会社の担当がサポートしてくれるので、安心して応募できる。2回の面接があるが、自分に合った会社を紹介してくれるので、納得して就業可能！</p>
+                        <p>人材会社が就業までしっかりとサポートしてくれます。また好条件の求人があれば紹介してくれることもある。</p>
                     </div>
 <!--モーダルウインドウ-->
                         <div class="modal fade" id="sampleModal-top2" tabindex="-1">
@@ -283,7 +280,7 @@
         <div class="modal-content">
             <div class="modal-body">
                 <div class="col-6">
-                 <img src="https://kikankou.co/wp-content/uploads/2018/06/recruitment-nagare.png" class="center-block img-responsive" data-dismiss="modal">
+                 <img src="https://kikankou.co/wp-content/uploads/2018/06/recruitment-howto.jpg" class="center-block img-responsive" data-dismiss="modal">
                 </div>
             </div><!--modal-body-->
         </div><!--modal-content-->
@@ -291,9 +288,9 @@
 </div><!--modal-fade-->
                      <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
                         <a data-toggle="modal" data-target="#sampleModal-top3">
-                        <img src="https://kikankou.co/wp-content/uploads/2018/06/haken-nagare.png" class="center-block img-responsive"></a>
+                        <img src="https://kikankou.co/wp-content/uploads/2018/06/haken-howto.jpg" class="center-block img-responsive"></a>
                         <h2><span style="color:#967900;">派遣会社からの応募</span></h2>
-                        <p>メーカーとの直接雇用ではなく派遣会社との契約なので、時給などが直接雇用と違う場合が多い。超短期で稼ぎたい方にオススメ！</p>
+                        <p>直接雇用とは違い雇用形態や待遇が異なる。時給が比較的高いのが派遣雇用の特徴。</p>
                     </div>
 <!--モーダルウインドウ-->
                         <div class="modal fade" id="sampleModal-top3" tabindex="-1">
@@ -301,7 +298,7 @@
         <div class="modal-content">
             <div class="modal-body">
                 <div class="col-6">
-                 <img src="https://kikankou.co/wp-content/uploads/2018/06/haken-nagare.png" class="center-block img-responsive" data-dismiss="modal">
+                 <img src="https://kikankou.co/wp-content/uploads/2018/06/haken-howto.jpg" class="center-block img-responsive" data-dismiss="modal">
                 </div>
             </div><!--modal-body-->
         </div><!--modal-content-->
@@ -906,18 +903,46 @@
     <div class="container">
         <div class="row  hidden-lg hidden-md visible-sm visible-xs">
             <div class="col-sm-12 col-xs-12">
-                <h1 class="text-center">期間工の求人一覧</h1>
-                <p class="text-center lead">Gallary of compary which recruit kikanko
+                <h1 class="text-center"><span style="color:#967900;">期間工の求人一覧</span></h1>
+                <p class="text-center lead">Gallary of compary which recruit kikanko</p>
                 <br>
-                </p>
+                <div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h2 class="panel-title">
+        <a data-toggle="collapse" href="#collapse2" class="center-block text-center">求人リスト</a>
+      </h2>
+    </div>
+    <div id="collapse2" class="panel-collapse collapse">
+      <ul class="list-group">
+        <li class="list-group-item"><a href="#sp-subaru-list">スバル期間工</a></li>
+        <li class="list-group-item"><a href="#sp-honda-list">ホンダ期間工</a></li>
+        <li class="list-group-item"><a href="#sp-mazda-list">マツダ期間工</a></li>
+        <li class="list-group-item"><a href="#sp-daihatsu-list">ダイハツ期間工</a></li>
+        <li class="list-group-item"><a href="#sp-komatsu-list">コマツ期間工</a></li>
+        <li class="list-group-item"><a href="#sp-isuzu-list">いすゞ期間工</a></li>
+        <li class="list-group-item"><a href="#sp-aishin-list">アイシン精機期間工</a></li>
+        <li class="list-group-item"><a href="#sp-honda-kumamoto-list">ホンダ熊本期間工</a></li>
+        <li class="list-group-item"><a href="#sp-gifu-list">岐阜車体期間工</a></li>
+        <li class="list-group-item"><a href="#sp-kobelco-list">コベルコ期間工</a></li>
+        <li class="list-group-item"><a href="#sp-hitachi_kenki-list">日立建機期間工</a></li>
+        <li class="list-group-item"><a href="#sp-primeearth-list">プライムアースEVエナジー期間工</a></li>
+        <li class="list-group-item"><a href="#sp-ntn-list">NTN期間工</a></li>
+        <li class="list-group-item"><a href="#sp-taiyou-list">太陽誘電ケミカルテクノロジー期間工</a></li>
+        <li class="list-group-item"><a href="#sp-toyota-list">トヨタ期間工</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 </div><!--col-->
 </div></div>
  <div class="section hidden-lg hidden-md visible-sm visible-xs">
     <div class="container">
-        <div class="row  hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row  hidden-lg hidden-md visible-sm visible-xs" id="sp-subaru-list">
              <a data-toggle="modal" data-target="#sampleModal-s1"><!--このdata-targetを変えないと反映されない-->
                 <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/subaru.png" id="sp-subaru-link"></a>
-                                         <!--モーダルウィンドウ！！！-->
+                                         <!--モーダルウンドウ！！！-->
 <div class="modal fade" id="sampleModal-s1" tabindex="-1">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -932,7 +957,9 @@
                 </div>
             </div>
             <div class="modal-footer">
-                    <a href="https://kikankou.co/toppage/">
+            <a href="https://kikankou.co/subaru/">
+                    <button type="button" class="btn btn-info">ブログ情報</button></a>
+                    <a href="https://kikan.co/lp/subaru_01">
                     <button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
                 <button type="button" class="btn btn-default" data-dismiss="modal">閉じる</button>
             </div>
@@ -942,19 +969,21 @@
             </div><!--col-sm12-->
                 <h3>スバル期間工</h3>
                  <p>群馬県に3工場を持つスバル【公式】から応募で入社祝い金30万円を支給</p>
-                   <a href="https://kikankou.co/lp/subaru_01"><button type="button" class="btn btn-danger">公式</button></a>
-                        <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button>
-                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button>
+                      <div class=""btn-group" role="group">
+<a href="https://kikan.co/lp/subaru_01"><button type="button" class="btn btn-danger">公式</button><a/>
+<button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
+<button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                        </div><!--btn-group-->
     </div><!--row-->
     </div><!--container-->
 </div> <!--section-->
 <!--ホンダSP-->
-<div class="section hidden-lg hidden-md visible-sm visible-xs">
+ <div class="section hidden-lg hidden-md visible-sm visible-xs">
   <div class="container">
-        <div class="row hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row hidden-lg hidden-md visible-sm visible-xs" id="sp-honda-list">
             <div class="col-sm-12 col-xs-12">
         <a data-toggle="modal" data-target="#sampleModal-s2"><!--このdata-targetを変えないと反映されない-->
-    <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/honda.png" id="sp-honda-link"></a>
+    <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/honda.png" id="sp-daihatsu-link"></a>
                                          <!--モーダルウィンドウ！！！-->
 <div class="modal fade" id="sampleModal-s2" tabindex="-1">
     <div class="modal-dialog">
@@ -968,15 +997,12 @@
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/honda.png" class="img-responsive">
                     <p><span style="background-color:red; color:#fff;">正社員雇用に積極的！待遇も良くて働きやすい環境をご用意してます！</span></p>
                     <p>公式</p>
-    <a href="https://kikankou.co/lp/honda_tochigi"><button type="button" class="btn btn-danger">栃木工場</button></a>
-     <a href="https://kikankou.co/lp/honda_suzuka"><button type="button" class="btn btn-default" data-dismiss="modal">鈴鹿工場</button></a>
-    <br>
-    <p>派遣</p>
-    <button type="button" class="btn btn-primary">栃木工場</button> 
-    <button type="button" class="btn btn-primary">鈴鹿工場</button>
+    <a href="https://kikan.co/lp/honda_suzuka"><button type="button" class="btn btn-danger">鈴鹿工場</button></button></a>
+    <a href="https://kikan.co/lp/honda_tochigi"><button type="button" class="btn btn-primary">栃木工場</button></a>
                 </div>
             </div>
             <div class="modal-footer">
+                <a href="https://kikankou.co/honda/"><button type="button" class="btn btn-info">ブログ情報</button></a>
              <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
@@ -984,23 +1010,26 @@
 </div>
             </div><!--col-sm12-->
                 <h3>ホンダ期間工</h3>
-                 <p>ホンダは埼玉の狭山工場,小川工場,寄居工場,栃木と三重県の鈴鹿にも工場を有している。</p>
-<div class="dropdown show btn-group">
-        <a class="btn btn-secondary dropdown-toggle btn-danger" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" type="button">公式</a>
-<div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                    <a class="dropdown-item" href="https://kikankou.co/lp/honda_tochigi">栃木工場</a>
-                    <a class="dropdown-item" href="https://kikankou.co/lp/honda_suzuka">鈴鹿工場</a>
-        </div>
-            </div>
-       <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
-                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                  <p>ホンダは埼玉の狭山工場,小川工場,寄居工場,栃木と三重県の鈴鹿にも工場を有している。</p>
+<div class=""btn-group" role="group">
+<button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#demo">公式</button>
+<div id="demo" class="collapse">
+<a href="https://kikan.co/lp/honda_tochigi"><p>栃木工場</p></a>
+<br>
+<a href="https://kikan.co/lp/honda_suzuka">鈴鹿工場</a>
+<br>
+<br>
+</div>
+        <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button>         
+        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                        </div><!--btn-group-->
     </div><!--row-->
     </div><!--container-->
 </div><!--section-->
 <!--マツダsp-->
    <div class="section hidden-lg hidden-md visible-sm visible-xs">
   <div class="container">
-        <div class="row hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row hidden-lg hidden-md visible-sm visible-xs" id="sp-mazda-list">
             <div class="col-sm-12 col-xs-12">
         <a data-toggle="modal" data-target="#sampleModal-s3"><!--このdata-targetを変えないと反映されない-->
     <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/mazda.png" id="sp-mazda-link"></a>
@@ -1015,12 +1044,13 @@
             <div class="modal-body">
               <div class="col-6">
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/mazda.png" class="img-responsive">
-                    <p><span style="background-color:red; color:#fff;">マツダは入社祝い金がすごい！人気の求人！</span></p>
+                    <p><span style="background-color:red; color:#fff;">マツダは入社祝い金が最低30万円以上から！人気の求人！広島県と山口県で募集中！</span></p>
               </div>
             </div>
             <div class="modal-footer">
-             <a href="https://kikankou.co/lp/mazda_01"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
-             <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
+<a href="https://kikankou.co/mazda/"><button type="button" class="btn btn-info">ブログ情報</button></a>
+<a href="https://kikan.co/lp/mazda_01"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
+<button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
     </div>
@@ -1028,9 +1058,11 @@
             </div><!--col-sm12-->
                 <h3>マツダ期間工</h3>
                  <p>マツダは入社祝い金がすごい！人気の求人！</p>
-                        <a href="https://kikankou.co/lp/mazda_01"><button type="button" class="btn btn-danger">公式</button></a>
-                        <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
-                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                 <div class=""btn-group" role="group">
+<a href="https://kikan.co/lp/mazda_01"><button type="button" class="btn btn-danger">公式</button><a/>
+<button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
+<button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                        </div><!--btn-group-->
     </div><!--row-->
     </div><!--container-->
 
@@ -1038,7 +1070,7 @@
   <!--ダイハツSP-->
   <div class="section hidden-lg hidden-md visible-sm visible-xs">
   <div class="container">
-        <div class="row hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row hidden-lg hidden-md visible-sm visible-xs" id="sp-daihatsu-list">
             <div class="col-sm-12 col-xs-12">
         <a data-toggle="modal" data-target="#sampleModal-s4"><!--このdata-targetを変えないと反映されない-->
     <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/daihatsu.png" id="sp-daihatsu-link"></a>
@@ -1055,18 +1087,15 @@
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/daihatsu.png" class="img-responsive">
                     <p><span style="background-color:red; color:#fff;">公式】から応募で入社祝い金をゲット！池田工場(大阪)や滋賀工場で期間工を募集中！</span></p>
                     <p>公式</p>
-    <a　href="https://kikankou.co/lp/daihatsu_ikeda"><button type="button" class="btn btn-danger">池田(大阪)</button></a>
-    <a href="https://kikankou.co/lp/daihatsu_shiga"><button type="button" class="btn btn-primary">滋賀</button></a>
-    <a href="https://kikankou.co/lp/daihatsu_kyoto"><button type="button" class="btn btn-warning">京都</button></a>
-    <a href="https://kikankou.co/lp/daihatsu_kyushu"><button type="button" class="btn btn-success">九州</button></a>
-    <a href="https://kikankou.co/lp/daihatsu_nishinomiya"><button type="button" class="btn btn-danger">西宮</button></a>
-    <br>
-    <p>派遣</p>
-    <button type="button" class="btn btn-primary">栃木工場</button> 
-    <button type="button" class="btn btn-primary">鈴鹿工場</button>
+    <a href="https://kikan.co/lp/daihatsu_ikeda"><button type="button" class="btn btn-danger">池田(大阪)</button></a>
+    <a href="https://kikan.co/lp/daihatsu_shiga"><button type="button" class="btn btn-primary">滋賀</button></a>
+    <a href="https://kikan.co/lp/daihatsu_kyoto"><button type="button" class="btn btn-warning">京都</button></a>
+    <a href="https://kikan.co/lp/daihatsu_kyushu"><button type="button" class="btn btn-success">九州</button></a>
+    <a href="https://kikan.co/lp/daihatsu_nishinomiya"><button type="button" class="btn btn-danger">西宮</button></a>
                 </div>
             </div>
             <div class="modal-footer">
+                <a href="https://kikankou.co/daihatsu/"><button type="button" class="btn btn-info">ブログ情報</button></a>
              <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
@@ -1074,26 +1103,32 @@
 </div>
             </div><!--col-sm12-->
                 <h3>ダイハツ期間工</h3>
-                 <p>公式】から応募で入社祝い金をゲット！池田工場(大阪)や滋賀工場で期間工を募集中！</p>
-<div class="dropdown show btn-group">
-        <a class="btn btn-secondary dropdown-toggle btn-danger" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" type="button">公式</a>
-<div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                    <a class="dropdown-item" href="https://kikankou.co/lp/daihatsu_ikeda">池田(大阪)工場</a>
-                    <a class="dropdown-item" href="https://kikankou.co/lp/daihatsu_shiga">滋賀工場</a>
-                    <a class="dropdown-item" href="https://kikankou.co/lp/daihatsu_kyoto">京都工場</a>
-                    <a class="dropdown-item" href="https://kikankou.co/lp/daihatsu_kyushu">ダイハツ九州</a>
-                    <a class="dropdown-item" href="https://kikankou.co/lp/daihatsu_nishinomiya">西宮部品センター</a>
-        </div>
-            </div>
-       <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
-                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                 <p>【公式】から応募で入社祝い金をゲット！池田工場(大阪)や滋賀工場で期間工を募集中！</p>
+<div class=""btn-group" role="group">
+<button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#demo1">公式</button>
+<div id="demo1" class="collapse">
+<a href="https://kikan.co/lp/daihatsu_ikeda">池田(本社)工場</a>
+<br><br>
+<a href="https://kikan.co/lp/daihatsu_shiga">滋賀工場</a>
+<br><br>
+<a href="https://kikan.co/lp/daihatsu_kyoto">京都工場</a>
+<br><br>
+<a href="https://kikan.co/lp/daihatsu_kyushu">九州工場</a>
+<br><br>
+<a href="https://kikan.co/lp/daihatsu_nishinomiya">西宮部品センター</a>
+<br>
+
+</div>
+        <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button>         
+        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                        </div><!--btn-group-->
     </div><!--row-->
     </div><!--container-->
 </div><!--section-->
 <!--コマツSP-->
 <div class="section hidden-lg hidden-md visible-sm visible-xs">
   <div class="container">
-        <div class="row hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row hidden-lg hidden-md visible-sm visible-xs" id="sp-komatsu-list">
             <div class="col-sm-12 col-xs-12">
         <a data-toggle="modal" data-target="#sampleModal-s5"><!--このdata-targetを変えないと反映されない-->
     <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/komatsu.png" id="sp-komatsu-link"></a>
@@ -1110,16 +1145,14 @@
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/komatsu.png" class="img-responsive">
                     <p><span style="background-color:red; color:#fff;">【公式】から応募で入社祝い金をゲット！池田工場(大阪)や滋賀工場で期間工を募集中！</span></p>
                     <p>公式</p>
-    <a　href="https://kikankou.co/lp/komatsu_01"><button type="button" class="btn btn-danger">大阪</button></a>
-    <a href="https://kikankou.co/lp/komatsu_03"><button type="button" class="btn btn-primary">六甲(神戸)</button></a>
-    <a href="https://kikankou.co/lp/komatsu_02"><button type="button" class="btn btn-warning">粟津(石川)</button></a>
+    <a href="https://kikan.co/lp/komatsu_01"><button type="button" class="btn btn-danger">大阪</button></a>
+    <a href="https://kikan.co/lp/komatsu_03"><button type="button" class="btn btn-primary">六甲(神戸)</button></a>
+    <a href="https://kikan.co/lp/komatsu_02"><button type="button" class="btn btn-warning">粟津(石川)</button></a>
     <br>
-    <p>派遣</p>
-    <button type="button" class="btn btn-primary">栃木工場</button> 
-    <button type="button" class="btn btn-primary">鈴鹿工場</button>
                 </div>
             </div>
             <div class="modal-footer">
+<a href="https://kikankou.co/komatsu/"><button type="button" class="btn btn-info">ブログ情報</button></a>
              <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
@@ -1128,23 +1161,25 @@
             </div><!--col-sm12-->
                 <h3>コマツ期間工</h3>
                  <p>【公式】から応募で入社祝い金をゲット！コマツは期間工を急募しています！</p>
-<div class="dropdown show btn-group">
-        <a class="btn btn-secondary dropdown-toggle btn-danger" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" type="button">公式</a>
-<div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                    <a class="dropdown-item" href="https://kikankou.co/lp/komatsu_01">大阪工場</a>
-                    <a class="dropdown-item" href="https://kikankou.co/lp/komatsu_03">六甲(神戸)工場</a>
-                    <a class="dropdown-item" href="https://kikankou.co/lp/komatsu_02">粟津(石川)工場</a>
-        </div>
-            </div>
-       <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
-                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+<div class=""btn-group" role="group">
+<button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#komatsu-sp">公式</button>
+<div id="komatsu-sp" class="collapse">
+<a href="https://kikan.co/lp/komatsu_01">大阪工場</a>
+<br><br>
+<a href="https://kikan.co/lp/komatsu_03">六甲工場</a>
+<br><br>
+<a href="https://kikan.co/lp/komatsu_02">粟津工場</a>
+<br><br>
+</div>
+<button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button>         
+        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
     </div><!--row-->
     </div><!--container-->
 </div><!--section-->
 <!--いすゞSP-->
  <div class="section hidden-lg hidden-md visible-sm visible-xs">
   <div class="container">
-        <div class="row hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row hidden-lg hidden-md visible-sm visible-xs" id="sp-isuzu-list">
             <div class="col-sm-12 col-xs-12">
         <a data-toggle="modal" data-target="#sampleModal-s6"><!--このdata-targetを変えないと反映されない-->
     <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/isuzu.png" id="sp-isuzu-link"></a>
@@ -1160,15 +1195,12 @@
               <div class="col-6">
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/isuzu.png" class="img-responsive">
     <p><span style="background-color:red; color:#fff;">【満期慰労金3か月で20万支給】が魅力のいすゞ期間工は人気の藤沢工場で期間工を募集中！栃木工場も同時募集！</span></p>
-    <p>公式</p>
-    <a href="https://kikankou.co/lp/isuzu_01"><button type="button" class="btn btn-danger">公式</button></a>
-    <br>
-    <p>派遣</p>
-    <button type="button" class="btn btn-primary">栃木工場</button> 
-    <button type="button" class="btn btn-primary">鈴鹿工場</button>
                 </div>
             </div>
             <div class="modal-footer">
+<a href="https://kikankou.co/isuzu/"><button type="button" class="btn btn-info">ブログ情報</button></a>
+<a href="https://kikan.co/lp/isuzu_01"><button type="button" class="btn btn-danger">公式</button></a>
+<a href="https://kikan.co/lp/isuzu_hokkaido"><button type="button" class="btn btn-primary">いすゞ北海道</button></a>
              <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
@@ -1177,14 +1209,14 @@
             </div><!--col-sm12-->
                 <h3>いすゞ期間工</h3>
                  <p>【満期慰労金3か月で20万支給】が魅力のいすゞ期間工は人気の藤沢工場で期間工を募集中！栃木工場も同時募集！</p>
-  <a href="https://kikankou.co/lp/isuzu_01"><button type="button" class="btn btn-danger">公式</button></a>
-       <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
-                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+<a href="https://kikan.co/lp/isuzu_01"><button type="button" class="btn btn-danger">公式</button></a>
+<button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
+<button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
     </div><!--row-->
     </div><!--container-->
 </div><!--section-->
 <!--アイシン精機SP-->
-      <div class="section hidden-lg hidden-md visible-sm visible-xs">
+      <div class="section hidden-lg hidden-md visible-sm visible-xs" id="sp-aishin-list">
   <div class="container">
         <div class="row hidden-lg hidden-md visible-sm visible-xs">
             <div class="col-sm-12 col-xs-12">
@@ -1203,14 +1235,12 @@
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/aishin.png" class="img-responsive">
     <p><span style="background-color:red; color:#fff;">人気の愛知県で勤務！正社員も積極的に登用中！</span></p>
     <p>公式</p>
-    <a href="https://kikankou.co/lp/aisin_01"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
+    <a href="https://kikan.co/lp/aisin_01"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
     <br>
-    <p>派遣</p>
-    <button type="button" class="btn btn-primary">栃木工場</button> 
-    <button type="button" class="btn btn-primary">鈴鹿工場</button>
                 </div>
             </div>
             <div class="modal-footer">
+<a href="https://kikankou.co/aishin/"><button type="button" class="btn btn-info">ブログ情報</button></a>
              <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
@@ -1218,17 +1248,19 @@
 </div>
             </div><!--col-sm12-->
                 <h3>アイシン精機期間工</h3>
-                 <p>【満期慰労金3か月で20万支給】が魅力のいすゞ期間工は人気の藤沢工場で期間工を募集中！栃木工場も同時募集！</p>
-  <a href="https://kikankou.co/lp/aisin_01"><button type="button" class="btn btn-danger">公式</button></a>
+                 <p>正社員への登用率が非常に高いのがアイシン精機の特徴。寮費が0円で月収例30万円~</p>
+                <div class=""btn-group" role="group">
+  <a href="https://kikan.co/lp/aisin_01"><button type="button" class="btn btn-danger">公式</button></a>
        <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
                         <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                        </div><!--btn-group-->
     </div><!--row-->
     </div><!--container-->
 </div><!--section-->
     <!--ホンダ熊本SP-->
   <div class="section hidden-lg hidden-md visible-sm visible-xs">
   <div class="container">
-        <div class="row hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row hidden-lg hidden-md visible-sm visible-xs" id="sp-honda-kumamoto-list">
             <div class="col-sm-12 col-xs-12">
         <a data-toggle="modal" data-target="#sampleModal-s8"><!--このdata-targetを変えないと反映されない-->
     <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/hondakumamoto.png" id="sp-hondakumamoto-link"></a>
@@ -1247,7 +1279,8 @@
                 </div>
             </div>
             <div class="modal-footer">
-                <a href="https://kikankou.co/lp/honda_kumamoto"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
+<a href="https://kikankou.co/honda"><button type="button" class="btn btn-info">ブログ情報</button></a>
+                <a href="https://kikan.co/lp/honda_kumamoto"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
              <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
@@ -1256,16 +1289,18 @@
             </div><!--col-sm12-->
                 <h3>ホンダ熊本期間工</h3>
                  <p>生活準備金支給で手持ちのお金がなくても応募可能！【公式】から応募で交通費前払い制度利用可能！</p>
-  <a href="https://kikankou.co/lp/honda_kumamoto"><button type="button" class="btn btn-danger">公式</button></a>
+                 <div class=""btn-group" role="group">
+  <a href="https://kikan.co/lp/honda_kumamoto"><button type="button" class="btn btn-danger">公式</button></a>
        <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
                         <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                        </div><!--btn-group-->
     </div><!--row-->
     </div><!--container-->
 </div><!--section-->
 <!--岐阜車体SP-->
      <div class="section hidden-lg hidden-md visible-sm visible-xs">
   <div class="container">
-        <div class="row hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row hidden-lg hidden-md visible-sm visible-xs" id="sp-gifu-list">
             <div class="col-sm-12 col-xs-12">
         <a data-toggle="modal" data-target="#sampleModal-s9"><!--このdata-targetを変えないと反映されない-->
     <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/gifusyatai.png" id="sp-gifu-link"></a>
@@ -1284,7 +1319,7 @@
                 </div>
             </div>
             <div class="modal-footer">
-                <a href="https://kikankou.co/lp/gifubody"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
+                <a href="https://kikan.co/lp/gifubody"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
              <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
@@ -1293,16 +1328,18 @@
             </div><!--col-sm12-->
                 <h3>岐阜車体期間工</h3>
                  <p>生活準備金支給で手持ちのお金がなくても応募可能！【公式】から応募で交通費前払い制度利用可能！</p>
-  <a href="https://kikankou.co/lp/gifubody"><button type="button" class="btn btn-danger">公式</button></a>
+                <div class=""btn-group" role="group">
+  <a href="https://kikan.co/lp/gifubody"><button type="button" class="btn btn-danger">公式</button></a>
        <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
-                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button>
+                        </div><!--btn-group-->
     </div><!--row-->
     </div><!--container-->
 </div><!--section-->
 <!--コベルコSP-->
          <div class="section hidden-lg hidden-md visible-sm visible-xs">
   <div class="container">
-        <div class="row hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row hidden-lg hidden-md visible-sm visible-xs" id="sp-kobelco-list">
             <div class="col-sm-12 col-xs-12">
         <a data-toggle="modal" data-target="#sampleModal-s10"><!--このdata-targetを変えないと反映されない-->
     <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/kobelco.png" id="sp-kobelco-link"></a>
@@ -1321,7 +1358,7 @@
                 </div>
             </div>
             <div class="modal-footer">
-                <a href="https://kikankou.co/lp/kobelco_01"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
+                <a href="https://kikan.co/lp/kobelco_01"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
              <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
@@ -1329,17 +1366,19 @@
 </div>
             </div><!--col-sm12-->
                 <h3>コベルコ期間工</h3>
-                 <p>【公式】からの応募で入社祝い金20万円支給！</p>
-  <a href="https://kikankou.co/lp/kobelco_01"><button type="button" class="btn btn-danger">公式</button></a>
+                 <p>【公式】からの応募で入社祝い金20万円支給！さらに今なら生活支援金10万円支給！勤務地は広島！</p>
+        <div class=""btn-group" role="group">
+  <a href="https://kikan.co/lp/kobelco_01"><button type="button" class="btn btn-danger">公式</button></a>
        <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
                         <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                        </div><!--btn-group-->
     </div><!--row-->
     </div><!--container-->
 </div><!--section-->
 <!--日立建機SP-->
      <div class="section hidden-lg hidden-md visible-sm visible-xs">
   <div class="container">
-        <div class="row hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row hidden-lg hidden-md visible-sm visible-xs" id="sp-hitachi_kenki-list">
             <div class="col-sm-12 col-xs-12">
         <a data-toggle="modal" data-target="#sampleModal-s11"><!--このdata-targetを変えないと反映されない-->
     <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/hitachikenki.png" id="sp-hitachi-link"></a>
@@ -1358,7 +1397,7 @@
                 </div>
             </div>
             <div class="modal-footer">
-                <a href="https://kikankou.co/lp/kobelco_01"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
+                <a href="https://kikan.co/lp/kobelco_01"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
              <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
@@ -1367,16 +1406,18 @@
             </div><!--col-sm12-->
                 <h3>日立建機期間工</h3>
                  <p>東京に近い！茨城県勤務を希望の方は日立建機がオススメ！正社員登用に積極的！生活準備金も支給！</p>
-  <a href="https://kikankou.co/lp/kobelco_01"><button type="button" class="btn btn-danger">公式</button></a>
+                 <div class=""btn-group" role="group">
+<a href="https://kikan.co/lp/kobelco_01"><button type="button" class="btn btn-danger">公式</button></a>
        <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
-                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button>
+                        </div><!--btn-group--> 
     </div><!--row-->
     </div><!--container-->
 </div><!--section-->
 <!--プライムアースSP-->
       <div class="section hidden-lg hidden-md visible-sm visible-xs">
   <div class="container">
-        <div class="row hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row hidden-lg hidden-md visible-sm visible-xs" id="sp-primeearth-list">
             <div class="col-sm-12 col-xs-12">
         <a data-toggle="modal" data-target="#sampleModal-s12"><!--このdata-targetを変えないと反映されない-->
     <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/primeearth.png" id="sp-primeearth-link"></a>
@@ -1395,7 +1436,7 @@
                 </div>
             </div>
             <div class="modal-footer">
-                <a href="https://kikankou.co/lp/kobelco_01"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
+                <a href="https://kikan.co/lp/peve_01"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
              <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
@@ -1404,16 +1445,18 @@
             </div><!--col-sm12-->
                 <h3>プライムアースEVエナジー期間工</h3>
                  <p>東京に近い！茨城県勤務を希望の方は日立建機がオススメ！正社員登用に積極的！生活準備金も支給！</p>
-  <a href="https://kikankou.co/lp/kobelco_01"><button type="button" class="btn btn-danger">公式</button></a>
+                <div class=""btn-group" role="group">
+  <a href="https://kikan.co/lp/peve_01"><button type="button" class="btn btn-danger">公式</button></a>
        <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
-                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button>
+                        </div><!--btn-group--> 
     </div><!--row-->
     </div><!--container-->
 </div><!--section-->
 <!--NTNSP-->
         <div class="section hidden-lg hidden-md visible-sm visible-xs">
   <div class="container">
-        <div class="row hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row hidden-lg hidden-md visible-sm visible-xs" id="sp-ntn-list">
             <div class="col-sm-12 col-xs-12">
         <a data-toggle="modal" data-target="#sampleModal-s13"><!--このdata-targetを変えないと反映されない-->
     <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/ntn.png" id="sp-ntn-link"></a>
@@ -1432,7 +1475,8 @@
                 </div>
             </div>
             <div class="modal-footer">
-                <a href="https://kikankou.co/lp/ntn_iwata"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
+<a href="https://kikankou.co/ntn"><button type="button" class="btn btn-info">ブログ情報</button></a>
+<a href="https://kikan.co/lp/ntn_iwata"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
              <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
@@ -1441,16 +1485,18 @@
             </div><!--col-sm12-->
                 <h3>NTN期間工</h3>
                  <p>静岡県の磐田市で期間工を募集中！【公式】から応募で入社祝い金20万円支給！</p>
-  <a href="https://kikankou.co/lp/ntn_iwata"><button type="button" class="btn btn-danger">公式</button></a>
+                 <div class=""btn-group" role="group">
+  <a href="https://kikan.co/lp/ntn_iwata"><button type="button" class="btn btn-danger">公式</button></a>
        <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
-                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button>
+                        </div><!--btn-group-->
     </div><!--row-->
     </div><!--container-->
 </div><!--section-->
 <!--太陽誘電ケミカルテクノロジーSP-->
      <div class="section hidden-lg hidden-md visible-sm visible-xs">
   <div class="container">
-        <div class="row hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row hidden-lg hidden-md visible-sm visible-xs" id="sp-taiyou-list">
             <div class="col-sm-12 col-xs-12">
         <a data-toggle="modal" data-target="#sampleModal-s14"><!--このdata-targetを変えないと反映されない-->
     <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/taiyou.png" id="sp-taiyou-link"></a>
@@ -1469,7 +1515,7 @@
                 </div>
             </div>
             <div class="modal-footer">
-                <a href="https://kikankou.co/lp/yuden_jcty"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
+                <a href="https://kikan.co/lp/yuden_jcty"><button type="button" class="btn btn-danger">公式-期間工サーチ</button></a>
              <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
@@ -1478,16 +1524,18 @@
             </div><!--col-sm12-->
                 <h4>太陽誘電ケミカルテクノロジー期間工</h4>
                  <p>群馬県の高崎市で期間工を募集中！！</p>
-  <a href="https://kikankou.co/lp/yuden_jcty"><button type="button" class="btn btn-danger">公式</button></a>
+                 <div class=""btn-group" role="group">
+  <a href="https://kikan.co/lp/yuden_jcty"><button type="button" class="btn btn-danger">公式</button></a>
        <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
-                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                        <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button>
+                        </div><!--btn-group-->
     </div><!--row-->
     </div><!--container-->
 </div><!--section-->
 <!--トヨタ期間工SP-->
      <div class="section hidden-lg hidden-md visible-sm visible-xs">
   <div class="container">
-        <div class="row hidden-lg hidden-md visible-sm visible-xs">
+        <div class="row hidden-lg hidden-md visible-sm visible-xs" id="sp-toyota-list">
             <div class="col-sm-12 col-xs-12">
         <a data-toggle="modal" data-target="#sampleModal-s15"><!--このdata-targetを変えないと反映されない-->
     <img class="pull-left img-responsive" src="https://kikankou.co/wp-content/uploads/2018/06/toyota.png" id="sp-toyota-link"></a>
@@ -1506,7 +1554,7 @@
                 </div>
             </div>
             <div class="modal-footer">
-                <a href="https://kikankou.co/toyota/"><button type="button" class="btn btn-default">トヨタ期間工ブログ</button></a>
+                <a href="https://kikankou.co/toyota/"><button type="button" class="btn btn-info">トヨタ期間工ブログ</button></a>
              <button type="button" class="btn btn-default" data-dismiss="modal">戻る</button>
             </div>
         </div>
@@ -1515,9 +1563,11 @@
             </div><!--col-sm12-->
                 <h3>トヨタ期間工</h3>
                  <p>愛知県で期間工を募集中！正社員の目指したい方はトヨタへ！</p>
+                 <div class=""btn-group" role="group">
   <a href="https://kikankou.co/lp/yuden_jcty"><button type="button" class="btn btn-danger" disabled="disabled">公式</button></a>
        <button type="button" class="btn btn-primary" disabled="disabled">人材紹介</button> 
                         <button type="button" class="btn btn-warning" disabled="disabled>">派遣</button> 
+                </div><!--btn-group-->
     </div><!--row-->
     </div><!--container-->
 </div><!--section-->
@@ -1707,7 +1757,7 @@
                    <div class="col-12 visible-xs visible-sm hidden-md hidden-lg">
                         <a href="file:///Users/Hiroki/Desktop/new//mail/form.html">
                             <img src="https://kikankou.co/wp-content/uploads/2018/06/ad01.png" class="center-block img-responsive" style="width:80%;"></a>
-                       <h4 class="text-center">広告掲載</h4>
+                       <h4 class="text-center">求人掲載</h4>
                     </div>
                    <div class="col-12 visible-xs visible-sm hidden-md hidden-lg">
                         <a><img src="https://kikankou.co/wp-content/uploads/2018/06/faq.png" class="center-block img-responsive" style="width:80%;"></a>
@@ -1725,7 +1775,8 @@
                     <div class="col-lg-12 col-md-12">
                         <p><a href="https://kikankou.co/contact/"><span style="color:#967900;">お問い合わせ</span></a>
                             <a href="https://kikankou.co/mitsubishi/"><span style="color:#967900;">求人掲載</span></a>
-                            <a href="https://kikankou.co/mitsubishi/"><span style="color:#967900;">広告募集</span></a>
+                            <a href="https://kikankou.co/rules/"><span style="color:#967900;">利用規約</span></a>
+                            <a href="https://kikankou.co/privacy/"><span style="color:#967900;">プライバシーポリシー</span></a>
                         </p>
                     </div>
                     <div class="col-md-3 col-lg-3 visible-md visible-lg hidden-sm hidden-xs">
@@ -1753,10 +1804,10 @@
                 <div class="row">
                     <div class="col-12">
                         <a href="#"><h2><span style="color:#967900;">期間工のミカタ-トップへ戻る</span></h2></a>
-                        <p><a href="https://kikankou.co/mitsubishi/""><span style="color:#967900;">お問い合わせ</span></a>
+                        <p><a href="https://kikankou.co/contact/"><span style="color:#967900;">お問い合わせ</span></a>
                             <a href="https://kikankou.co/mitsubishi/"><span style="color:#967900;">求人掲載</span></a>
-                            <a href="https://kikankou.co/mitsubishi/"><span style="color:#967900;">利用規約</span></a>
-                            <a href="https://kikankou.co/mitsubishi/"><span style="color:#967900;"プライバシーポリシー</span></a>
+                            <a href="https://kikankou.co/rules/"><span style="color:#967900;">利用規約</span></a>
+                            <a href="https://kikankou.co/privacy/"><span style="color:#967900;"プライバシーポリシー</span></a>
                         </p>
                     </div><!--col-->
                         </div><!--row-->
